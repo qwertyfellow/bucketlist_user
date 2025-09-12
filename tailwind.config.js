@@ -28,9 +28,6 @@ module.exports = {
                   DEFAULT: "#16404D"
                 }
             },
-            fontFamily: {
-                sans: ["Open Sans", 'sans-serif'],
-            },
             borderRadius: {
                 lg: "var(--radius)",
                 md: "calc(var(--radius) - 2px)",
